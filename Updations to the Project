@@ -1,0 +1,15 @@
+Need to add the History Function with MySQL/PostgreSQL
+
+Doing that with the help of Java DataBase Connectivity.
+
+Firstly the format should be like this:
+
+1)Table with 2 Columns.
+
+2)The first-one with Serial Number
+
+3)Second should be the winner it-self with either X or O.
+
+Might also add Count function with leads or with to that point to the user.
+
+beside their Player.
